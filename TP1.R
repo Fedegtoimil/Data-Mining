@@ -69,6 +69,6 @@ sample.conso$Lose_Grand_total <- sample.conso$LoseBattle_sum_dsi0 + sample.conso
 ###########################################################################################
 #Grafico= Promedio de batallas totales pedidas por cantidad de dias que jugo ¿como hacer?
 
-
-
+#haciendo cambios
+str(a)
 
